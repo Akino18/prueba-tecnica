@@ -30,4 +30,4 @@ npm run dev
 
 - Debe de tener presente de que si el proyecto da problemas por los permisos CORS, solo debe de desactivarlos. Recomiendo la siguiente extensión para el navegador para  la desactivación temporal de los permisos CORS (https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino).
 - La base de datos debe de estar iniciada en el puerto 5432
-- Cometí un error en la elaboración de la base de datos y no tuve tiempo de recomponerlo debía a que me percate la final de la prueba. La base de datos debe de llamarse prueba-tecnica y la tabla user_management. Lamento este error y espero que no ocasione molestias.
+- Cometí un error en la elaboración de la base de datos y no tuve tiempo de recomponerlo debido a que me percate la final de la prueba. La base de datos debe de llamarse prueba-tecnica y la tabla user_management. Lamento este error y espero que no ocasione molestias.
